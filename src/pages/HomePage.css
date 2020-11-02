@@ -1,0 +1,26 @@
+.fp-tableCell {
+  vertical-align: top;
+}
+
+.wrapper {
+  padding: 10px;
+}
+
+/* .search {
+  padding-top: 120px;
+} */
+
+.footer {
+  position: absolute;
+  bottom: 10px;
+  width: 99%;
+  left: 0;
+}
+
+.home {
+  height: 100vh;
+}
+
+.cal {
+  margin-right: -10px;
+}
